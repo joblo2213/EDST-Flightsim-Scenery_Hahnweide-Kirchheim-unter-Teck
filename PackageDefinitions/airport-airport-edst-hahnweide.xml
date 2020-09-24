@@ -1,0 +1,39 @@
+<AssetPackage Name="airport-airport-edst-hahnweide" Version="0.1.0">
+	<ItemSettings>
+		<ContentType>SCENERY</ContentType>
+		<Title>EDST Hahnweide (Kirchheim u.Teck)</Title>
+		<Manufacturer/>
+		<Creator>ungefroren</Creator>
+	</ItemSettings>
+	<Flags>
+		<VisibleInStore>false</VisibleInStore>
+		<CanBeReferenced>false</CanBeReferenced>
+	</Flags>
+	<AssetGroups>
+		<AssetGroup Name="ContentInfo">
+			<Type>ContentInfo</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageDefinitions\airport-airport-edst-hahnweide\ContentInfo\</AssetDir>
+			<OutputDir>ContentInfo\airport-airport-edst-hahnweide\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="airport-edst-hahnweide-aerial">
+			<Type>CGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\CGL</AssetDir>
+			<OutputDir>CGL</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="airport-edst-hahnweide-scenery">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\data\</AssetDir>
+			<OutputDir>scenery\global\scenery\</OutputDir>
+		</AssetGroup>
+	</AssetGroups>
+</AssetPackage>
+
