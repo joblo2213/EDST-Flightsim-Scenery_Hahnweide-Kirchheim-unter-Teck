@@ -2,7 +2,7 @@
 	<OutputDirectory>.</OutputDirectory>
 	<TemporaryOutputDirectory>_PackageInt</TemporaryOutputDirectory>
 	<Packages>
-		<Package>PackageDefinitions\airport-airport-edst-hahnweide.xml</Package>
+		<Package>PackageDefinitions\airport-edst-hahnweide.xml</Package>
 	</Packages>
 </Project>
 

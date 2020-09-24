@@ -1,4 +1,4 @@
-<AssetPackage Name="airport-airport-edst-hahnweide" Version="0.1.0">
+<AssetPackage Name="airport-edst-hahnweide" Version="0.1.0">
 	<ItemSettings>
 		<ContentType>SCENERY</ContentType>
 		<Title>EDST Hahnweide (Kirchheim u.Teck)</Title>
@@ -15,8 +15,8 @@
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageDefinitions\airport-airport-edst-hahnweide\ContentInfo\</AssetDir>
-			<OutputDir>ContentInfo\airport-airport-edst-hahnweide\</OutputDir>
+			<AssetDir>PackageDefinitions\airport-edst-hahnweide\ContentInfo</AssetDir>
+			<OutputDir>ContentInfo\airport-edst-hahnweide</OutputDir>
 		</AssetGroup>
 		<AssetGroup Name="airport-edst-hahnweide-aerial">
 			<Type>CGL</Type>
