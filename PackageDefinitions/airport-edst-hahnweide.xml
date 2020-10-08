@@ -26,6 +26,14 @@
 			<AssetDir>PackageSources\CGL</AssetDir>
 			<OutputDir>CGL</OutputDir>
 		</AssetGroup-->
+		<AssetGroup Name="airport-edst-hahnweide-models">
+			<Type>ArtProj</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\modelLib\</AssetDir>
+			<OutputDir>scenery/global/scenery\</OutputDir>
+		</AssetGroup>
 		<AssetGroup Name="airport-edst-hahnweide-scenery">
 			<Type>BGL</Type>
 			<Flags>
