@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<FSData version="9.0">
+	<!--SceneryObject name: EDST_Fliegerheim-->
+	<SceneryObject lat="48.63163726448135" lon="9.43258965745271" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{E12236BE-CEB6-4C28-6F6D-785C6873BFD3}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: EDST_Garage-->
+	<SceneryObject lat="48.63187498737889" lon="9.43222942501852" alt="0.00000000000000" pitch="0.001865" bank="-0.001544" heading="178.107401" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{645DB440-358F-4BC7-0D52-C320E81766BE}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: EDST_TOWER-->
+	<SceneryObject lat="48.63221566349308" lon="9.43150952370306" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{C6BD822C-32CE-41F6-803C-8C8B062D4459}" scale="1.000000"/>
+	</SceneryObject>
+</FSData>
+
